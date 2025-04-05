@@ -1,0 +1,13 @@
+{
+  "name": "C++ CUDA Codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "ms-vscode.cpptools"
+  ],
+  "remoteUser": "vscode"
+}
